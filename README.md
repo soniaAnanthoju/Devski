@@ -42,6 +42,12 @@ fetch is used to get about details in the footer section. Dummy data from API is
 
 
 
+# UI Screenshots
+
+Pictures are provided in UI Screenshots folder > SRC .
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
