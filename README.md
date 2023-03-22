@@ -42,6 +42,8 @@ fetch is used to get about details in the footer section. Dummy data from API is
 
 
 
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
