@@ -1,0 +1,48 @@
+a {
+    text-decoration: none;
+}
+
+.learning-path {
+    display: block;
+    position: absolute;
+    top: 650px;
+    /* left: 519px;  */
+    width: 500px;
+    padding: 15px;
+    margin-left: 370px;
+    margin-bottom: 25px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 100px 0 rgba(0, 0, 0, 0.19);
+}
+
+.learning-path-heading {
+    display: inline-block;
+    color: #eb5551;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 15px;
+    padding-left: 25px;
+    vertical-align: top;
+}
+
+.learning-path-heading div {
+    display: inline-block;
+}
+
+.learning-path-heading img {
+    height: 30px;
+    width: 30px;
+    padding-left: 220px;
+}
+
+.steps {
+    color: white;
+    height: 45px;
+    margin: 15px 25px;
+    font-size: 20px;
+    padding-top: 20px;
+    border-radius: 35px;
+    text-align: center;
+    background-color: #f2959b;
+}

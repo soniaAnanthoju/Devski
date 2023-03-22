@@ -1,0 +1,33 @@
+.footer {
+    background-color: #3a9bdc;
+}
+
+.contact-details {
+    padding: 50px;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #fff;
+}
+
+.address {
+    display: inline-block;
+    padding: 0px 50px 0px 25px;
+}
+
+.contact {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.copy-rights {
+    padding: 20px;
+    margin-left: 55px;
+    margin-right: 35px;
+    color: white;
+    font-size: 18px;
+    border-top: 1px solid #505050;
+}
+
+.developed-by {
+    padding-left: 450px;
+}

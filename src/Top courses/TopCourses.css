@@ -1,0 +1,27 @@
+.top-courses-page {
+    padding: 30px;
+}
+
+.top-courses {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.course-block {
+    display: inline-block;
+    width: 215px;
+    height: 120px;
+    border-radius: 50%;
+    padding-top: 95px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: #53d3d1;
+    text-align: center;
+}
+
+.course-title {
+    color: white;
+    font-size: 25px;
+}
