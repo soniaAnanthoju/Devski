@@ -7,7 +7,6 @@ import TopCourses from './Top courses/TopCourses';
 function App() {
   return (
     <div className="App">
-    //App Component
       <header className="App-header">
           <Header></Header>
           <TopCourses></TopCourses>
