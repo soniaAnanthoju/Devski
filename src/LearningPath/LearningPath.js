@@ -36,7 +36,7 @@ function Learningpath(props) {
 			</div>
 			{stepDetails.map((data) => {
 				return (
-					<a href={data.url} target={'_blank'}><div className='steps'>{data.name}</div></a>
+					<a href={data.url} rel="noopener"><div className='steps'>{data.name}</div></a>
 				)
 			})
 			}
