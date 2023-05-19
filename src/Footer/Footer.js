@@ -35,7 +35,7 @@ function Footer() {
 				</div>
 			</div>
 			<div className='copy-rights'>
-				<span>© 2023 Edwisely | Online Education Learning Platform</span>
+				<span>© 2023 Devski | Online Education Learning Platform</span>
 				<span className='developed-by'>Developed by Sonia Ananthoju</span>
 			</div>
 		</div>

@@ -1,47 +1,19 @@
 .header {
     font-weight: 600;
     color: white;
-    background-image: url('https://www.edwisely.com/assets/images/landing/banner.png');
-    height: 600px;
-    width: auto;
+    background-color: #FF7F50;
 }
 
 .app-name {
     display: inline-block;
-    width: 1000px;
+    width: 1075px;
     font-size: 36px;
-    padding: 50px;
-    color: black;
+    padding: 15px 30px;
+    color: white;
 }
 
 .about-us {
     display: inline-block;
     width: 125px;
     font-size: 22px;
-}
-
-.description {
-    padding: 50px;
-}
-
-.app-description {
-    color: white;
-    font-size: 35px;
-    line-height: 1.5;
-    font-weight: 600;
-}
-
-.line {
-    width: 100px;
-    height: 3px;
-    background-color: white;
-    margin-top: 12.5px;
-    margin-bottom: 15px;
-}
-
-.app-description-2 {
-    font-weight: 500;
-    line-height: 1.4;
-    font-weight: 400;
-    font-size: 27.5px;
 }
